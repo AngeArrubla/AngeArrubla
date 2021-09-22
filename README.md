@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hola!! 👋
 
-### <h1 style="color:#5B0CAE">This is Angelica Arrubla!</h1>
+### <h1 style="color:#5B0CAE">Soy Angelica Arrubla!</h1>
 
 <a href="https://www.linkedin.com/in/angelica-arrubla-hernandez-99516a1b5/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" background-color= #000000 />
@@ -16,24 +16,51 @@
 </a>
 <br>
 <br> 
-Welcome to my Github page! I am Angelica and I am a business administrator but I like interface design, illustration and web development
+Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
 <img align="right" alt="img" src="https://i.imgur.com/USjaAJD.png" width="30%" height="auto" />
 
 
-#### 🌱  Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Im Working in the proyect [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) 🚀 *coming soon*
+#### 🌱  Cosas en las que estoy trabajando actualmente:
+- Graduarme del curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira 
+- Terminar la ruta de aprendisaje de JavaScript en Platzi
+- Estoy desarrollando el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) 🚀 
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+#### ✍️ &nbsp; Cosas con las que me estoy desafiando:
+- Aplicar la metodologia scrum para trabajar el proyecto de mujeres poderosas
+- Dedicar de 6 a 8 horas al estudio autonomo para ser mejor programadora
+- Aplender ingles
+- Trabajar en mi marca personal 
 
-#### :computer: Programming languages and tools:
+#### 🖥 &nbsp; Lenguajes para desarrollo e instrumentos:
+<p>
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AngeArrubla&show_icons=true&hide_border=true" />
+  
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+  
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  
+</p>
 
-
+####  ⚙️ &nbsp; Herramientas que uso:
+<p>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code> 
+</p>
 
 
 
