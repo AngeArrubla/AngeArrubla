@@ -17,13 +17,13 @@
 <br>
 <br> 
 Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
-<img align="right" alt="img" src="https://i.imgur.com/USjaAJD.png" width="30%" height="auto" />
-
 
 #### 🌱  Cosas en las que estoy trabajando actualmente:
 - Graduarme del curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira 
 - Terminar la ruta de aprendisaje de JavaScript en Platzi
 - Estoy desarrollando el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) 🚀 
+
+<img align="right" alt="img" src="https://i.imgur.com/USjaAJD.png" width="30%" height="auto" />
 
 #### ✍️ &nbsp; Cosas con las que me estoy desafiando:
 - Aplicar la metodologia scrum para trabajar el proyecto de mujeres poderosas
@@ -33,7 +33,6 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
 
 #### 🖥 &nbsp; Lenguajes para desarrollo e instrumentos:
 <p>
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AngeArrubla&show_icons=true&hide_border=true" />
   
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -50,13 +49,17 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AngeArrubla&show_icons=true&hide_border=true" />
+  
 </p>
+<br>
 
 ####  ⚙️ &nbsp; Herramientas que uso:
 <p>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></code>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
+  
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg"></code>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code> 
