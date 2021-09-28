@@ -41,6 +41,7 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
@@ -58,8 +59,7 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
 <p>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></code>
-  <code><img width="3%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
-  
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>  
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg"></code>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code> 
