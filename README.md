@@ -25,7 +25,7 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
 
 <img align="right" alt="img" src="https://i.imgur.com/UjneIn7.gif" width="30%" height="auto" />
 
-#### :muscle: Cosas con las que me estoy desafiando:
+#### :gem: Cosas con las que me estoy desafiando:
 - Aplicar la metodologia scrum para trabajar el proyecto de mujeres poderosas
 - Dedicar de 6 a 8 horas al estudio autonomo para ser mejor programadora
 - Aplender ingles
