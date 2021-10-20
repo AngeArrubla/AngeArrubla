@@ -23,7 +23,7 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
 - Terminar la ruta de aprendisaje de JavaScript en Platzi
 - Desarrollar el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) visita la pagina web --> https://stolzz0613.github.io/MujeresPoderosasTIC/ :sparkling_heart:
 
-<img align="right" alt="img" src="https://i.imgur.com/UjneIn7.gif" width="30%" height="auto" />
+<img align="right" alt="img" src="https://i.imgur.com/DWQJYrC.png" width="30%" height="auto" />
 
 #### :gem: Cosas con las que me estoy desafiando:
 - Aplicar la metodologia scrum para trabajar el proyecto de mujeres poderosas
