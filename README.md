@@ -14,8 +14,7 @@
 <a href="https://www.behance.net/angelicarrubla">
   <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
 </a>
-<br>
-<br> 
+<img align="center" alt="fondo" width="100%" height="5px" src="https://i.imgur.com/qPuRo9q.jpg"/>
 Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
 
 #### :star:  ¿Qué estoy trabajando actualmente?
@@ -23,7 +22,7 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
 - Terminar la ruta de aprendisaje de JavaScript en Platzi
 - Desarrollar el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) visita la pagina web https://stolzz0613.github.io/MujeresPoderosasTIC/ :sparkling_heart:
 
-<img align="right" alt="img" src="https://i.imgur.com/DWQJYrC.png" width="30%" height="auto" />
+<img align="right" alt="img" src="https://i.imgur.com/UjneIn7.gif" width="30%" height="auto" />
 
 #### :gem: Cosas con las que me estoy desafiando:
 - Aplicar la metodologia scrum para trabajar el proyecto de mujeres poderosas
