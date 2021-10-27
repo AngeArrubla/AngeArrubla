@@ -21,7 +21,7 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
 #### :star:  ¿Qué estoy trabajando actualmente?
 - Certificarme en el curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira 
 - Terminar la ruta de aprendisaje de JavaScript en Platzi
-- Desarrollar el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) visita la pagina web --> https://stolzz0613.github.io/MujeresPoderosasTIC/ :sparkling_heart:
+- Desarrollar el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) visita la pagina web https://stolzz0613.github.io/MujeresPoderosasTIC/ :sparkling_heart:
 
 <img align="right" alt="img" src="https://i.imgur.com/DWQJYrC.png" width="30%" height="auto" />
 
