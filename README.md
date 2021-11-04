@@ -11,7 +11,7 @@
 <a href="https://adagiobyangel.blogspot.com/">
   <img align="left" alt="Adagio-Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 </a>
-<a href="https://www.behance.net/angelicarrubla">
+<a href="https://www.behance.net/angelicaarrubla">
   <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
 </a>
 <img align="center" alt="fondo" width="100%" height="5px" src="https://i.imgur.com/qPuRo9q.jpg"/>
