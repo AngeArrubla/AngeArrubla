@@ -3,16 +3,16 @@
 ### <h1 style="color:#5B0CAE">Soy Angelica Arrubla!</h1>
 
 <a href="https://www.linkedin.com/in/angelica-arrubla-hernandez-99516a1b5/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" background-color= #000000 />
+  <img target="_blank" align="left" alt="Linkedin" height="50px" src="https://i.ibb.co/8DdXCSG/Recurso-27-4x.png" background-color= #000000 />
 </a>
 <a href="https://www.instagram.com/ange_arrubla/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img target="_blank" align="left" alt="Instagram" height="50px" src="https://i.ibb.co/KzhKTBh/Instagram-4x.png" />
 </a>
 <a href="https://adagiobyangel.blogspot.com/">
-  <img align="left" alt="Adagio-Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
+  <img target="_blank" align="left" alt="Adagio-Blog" height="50px" src="https://i.ibb.co/jkkkbRX/Recurso-30-4x.png" />
 </a>
 <a href="https://www.behance.net/angelicaarrubla">
-  <img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
+  <img target="_blank" align="left" alt="Behance" height="48px" src="https://i.ibb.co/s6TDHCt/Behance.png" />
 </a>
 <img align="center" alt="fondo" width="100%" height="5px" src="https://i.imgur.com/qPuRo9q.jpg"/>
 Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
