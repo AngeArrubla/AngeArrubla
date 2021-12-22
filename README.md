@@ -1,5 +1,3 @@
-### Hola!! 👋
-
 ### <h1 style="color:#5B0CAE">Soy Angelica Arrubla!</h1>
 
 <a href="https://www.linkedin.com/in/angelica-arrubla-hernandez-99516a1b5/">
@@ -17,19 +15,19 @@
 <img align="center" alt="fondo" width="100%" height="5px" src="https://i.imgur.com/qPuRo9q.jpg"/>
 Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
 
-#### :star:  ¿Qué estoy trabajando actualmente?
+### :purple_heart:¿En qué estoy trabajando actualmente?
 - Certificarme en el curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira como desarrolladora web
 - Practicar mis conocimientos en ingles
 - Desarrollar el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) visita la pagina web https://stolzz0613.github.io/MujeresPoderosasTIC/ :sparkling_heart:
 
 <img align="right" alt="img" src="https://i.imgur.com/UjneIn7.gif" width="30%" height="auto" />
 
-#### :gem: Cosas con las que me estoy desafiando:
+### :purple_heart: Cosas con las que me estoy desafiando:
 - Aplicar la metodologia scrum para trabajar el proyecto de mujeres poderosas
 - Dedicar de 6 a 8 horas al estudio autonomo para ser mejor programadora
 - Trabajar en mi marca personal 
 
-#### 🖥 &nbsp; Lenguajes para desarrollo e instrumentos:
+### :purple_heart: Tecnologias:
 <p>
   
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -53,7 +51,7 @@ Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios 
 </p>
 <br>
 
-####  ⚙️ &nbsp; Herramientas que uso:
+###  :purple_heart: Herramientas:
 <p>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
   <code><img width="3%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></code>
