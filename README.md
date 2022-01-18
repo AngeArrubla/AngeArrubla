@@ -13,7 +13,7 @@
   <img target="_blank" align="left" alt="Behance" height="48px" src="https://i.ibb.co/s6TDHCt/Behance.png" />
 </a>
 <img align="center" alt="fondo" width="100%" height="5px" src="https://i.ibb.co/hWQZ5Ct/Banner.jpg"/>
-Bienvenido a mi pagina de Github! Son Angelica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
+Bienvenido a mi pagina de Github! Soy Angélica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
 
 ### :purple_heart:¿En qué estoy trabajando actualmente?
 - Certificarme en el curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira como desarrolladora web
