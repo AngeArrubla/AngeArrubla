@@ -1,4 +1,4 @@
-### <h1 style="color:#5B0CAE">Soy Angelica Arrubla!</h1>
+### <h1 style="color:#5B0CAE">Frontend Web Developer in training</h1>
 
 <a href="https://www.linkedin.com/in/angelica-arrubla-hernandez-99516a1b5/">
   <img target="_blank" align="left" alt="Linkedin" height="50px" src="https://i.ibb.co/8DdXCSG/Recurso-27-4x.png" background-color= #000000 />
