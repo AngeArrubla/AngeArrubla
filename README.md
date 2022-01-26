@@ -12,7 +12,7 @@
 <a href="https://www.behance.net/angelicaarrubla">
   <img target="_blank" align="left" alt="Behance" height="48px" src="https://i.ibb.co/s6TDHCt/Behance.png" />
 </a>
-<img align="center" alt="fondo" width="100%" height="5px" src="https://i.ibb.co/hWQZ5Ct/Banner.jpg"/>
+<img align="center" alt="fondo" width="100%" height="5px" src="https://i.imgur.com/XCYrZ1e.jpg"/>
 Bienvenido a mi pagina de Github! Soy Angélica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
 
 ### :purple_heart:¿En qué estoy trabajando actualmente?
@@ -20,7 +20,7 @@ Bienvenido a mi pagina de Github! Soy Angélica y soy administradora de negocios
 - Practicar mis conocimientos en ingles
 - Desarrollar el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) visita la pagina web https://stolzz0613.github.io/MujeresPoderosasTIC/ :sparkling_heart:
 
-<img align="right" alt="img" src="https://i.ibb.co/N6V7G90/Fioryme-4x.png" width="40%" height="auto" />
+<img align="right" alt="img" src="https://i.imgur.com/oftoa7I.png" width="22%" height="auto" />
 
 ### :purple_heart: Cosas con las que me estoy desafiando:
 - Aplicar la metodologia scrum para trabajar el proyecto de mujeres poderosas
