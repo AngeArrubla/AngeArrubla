@@ -6,11 +6,11 @@
 <a href="https://www.instagram.com/ange_arrubla/">
   <img target="_blank" align="left" alt="Instagram" height="50px" src="https://i.ibb.co/KzhKTBh/Instagram-4x.png" />
 </a>
-<a href="https://adagiobyangel.blogspot.com/">
-  <img target="_blank" align="left" alt="Adagio-Blog" height="50px" src="" />
+<a href="">
+  <img target="_blank" align="left" alt="Adagio-Blog" height="50px" src="https://i.imgur.com/A9qxfqy.png" />
 </a>
 <a href="https://www.behance.net/angelicaarrubla">
-  <img target="_blank" align="left" alt="Behance" height="48px" src="https://i.ibb.co/s6TDHCt/Behance.png" />
+  <img target="_blank" align="left" alt="Behance" height="48px" src="https://i.imgur.com/2uRplsp.png" />
 </a>
 <img align="center" alt="fondo" width="100%" height="5px" src="https://i.imgur.com/XCYrZ1e.jpg"/>
 Bienvenido a mi pagina de Github! Soy Angélica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
