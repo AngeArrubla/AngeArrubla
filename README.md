@@ -7,7 +7,7 @@
   <img target="_blank" align="left" alt="Instagram" height="50px" src="https://i.ibb.co/KzhKTBh/Instagram-4x.png" />
 </a>
 <a href="https://adagiobyangel.blogspot.com/">
-  <img target="_blank" align="left" alt="Adagio-Blog" height="50px" src="https://i.ibb.co/jkkkbRX/Recurso-30-4x.png" />
+  <img target="_blank" align="left" alt="Adagio-Blog" height="50px" src="" />
 </a>
 <a href="https://www.behance.net/angelicaarrubla">
   <img target="_blank" align="left" alt="Behance" height="48px" src="https://i.ibb.co/s6TDHCt/Behance.png" />
