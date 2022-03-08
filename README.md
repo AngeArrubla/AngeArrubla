@@ -1,10 +1,10 @@
 ### <h1 style="color:#5B0CAE">Frontend Web Developer in training</h1>
 
 <a href="https://www.linkedin.com/in/angelica-arrubla-hernandez-99516a1b5/">
-  <img target="_blank" align="left" alt="Linkedin" height="50px" src="https://i.ibb.co/8DdXCSG/Recurso-27-4x.png" background-color= #000000 />
+  <img target="_blank" align="left" alt="Linkedin" height="50px" src="https://i.imgur.com/V7XEBmB.png" background-color= #000000 />
 </a>
 <a href="https://www.instagram.com/ange_arrubla/">
-  <img target="_blank" align="left" alt="Instagram" height="50px" src="https://i.ibb.co/KzhKTBh/Instagram-4x.png" />
+  <img target="_blank" align="left" alt="Instagram" height="50px" src="https://i.imgur.com/gauJvUV.png" />
 </a>
 <a href="">
   <img target="_blank" align="left" alt="Adagio-Blog" height="50px" src="https://i.imgur.com/A9qxfqy.png" />
