@@ -16,7 +16,7 @@
 Bienvenido a mi pagina de Github! Soy Angélica y soy administradora de negocios de profesión pero me gusta el diseño de interfaces, la ilustración y el desarrollo web
 
 ### :purple_heart:¿En qué estoy trabajando actualmente?
-- Certificarme en el curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira como desarrolladora web
+- Certificarme como Product owner y metodologias agiles
 - Practicar mis conocimientos en ingles
 - Desarrollar el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) visita la pagina web https://stolzz0613.github.io/MujeresPoderosasTIC/ :sparkling_heart:
 
